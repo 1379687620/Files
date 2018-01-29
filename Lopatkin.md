@@ -1,3 +1,6 @@
+- 2018.01.29.0945 [Microsoft Windows 10 1607 Enterprise LTSB 2016 x86-x64 RU-RU FANTASY 2x1](http://emtrek.org/viewtopic.php?t=45663) [3.56 GB](http://emtrek.org/download.php?id=46492)
+- 2018.01.29.0302 [Microsoft Windows 10 1607 Enterprise LTSB 2016 x86-x64 RU-RU FANTASY](http://emtrek.org/viewtopic.php?t=45662) [6.96 GB](http://emtrek.org/download.php?id=46491)
+- 2018.01.27.0117 [Microsoft Windows 10 Enterprise 17083.1000 rs4 Prerelease x86-x64 RU-RU 2x1](http://emtrek.org/viewtopic.php?t=45605) [4.11 GB](http://emtrek.org/download.php?id=46435)
 - 2018.01.25.1357 [Microsoft Windows 10 Pro 17083.1000 rs4 Prerelease x86-x64 RU-RU LIM](http://emtrek.org/viewtopic.php?t=45559) [3.32 GB](http://emtrek.org/download.php?id=46389)
 - 2018.01.25.0525 [Microsoft Windows 10 1607 Enterprise LTSB 2016 x86-x64 RU-RU 2x1](http://emtrek.org/viewtopic.php?t=45552) [3.08 GB](http://emtrek.org/download.php?id=46388)
 - 2018.01.25.0521 [Microsoft Windows 10 1607 Enterprise LTSB 2016 x86-x64 RU-RU Full](http://emtrek.org/viewtopic.php?t=45543) [6.41 GB](http://emtrek.org/download.php?id=46372)
