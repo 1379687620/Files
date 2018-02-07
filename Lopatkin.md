@@ -1,3 +1,5 @@
+- 2018.02.06.2028 [Microsoft Windows 10 1607 Enterprise LTSB 2016 x86-x64 ZH-CN 2x1](http://emtrek.org/viewtopic.php?t=45720) [4.09 GB](http://emtrek.org/download.php?id=46544)
+- 2018.02.06.0047 [Microsoft Windows 10 1607 Enterprise LTSB 2016 x86-x64 EN-US 2x1](http://emtrek.org/viewtopic.php?t=45717) [3.23 GB](http://emtrek.org/download.php?id=46542)
 - 2018.02.02.1241 [Microsoft Windows 10 1709 Enterprise 16299.214 rs3 x86-x64 RU-RU ZZZ](http://emtrek.org/viewtopic.php?t=45694) [2.83 GB](http://emtrek.org/download.php?id=46521)
 - 2018.02.02.0259 [Microsoft Windows 10 1709 Enterprise 16299.214 rs3 x86-x64 RU-RU BOSS+](http://emtrek.org/viewtopic.php?t=45693) [3.84 GB](http://emtrek.org/download.php?id=46520)
 - 2018.02.01.0926 [Microsoft Windows 10 1709 Enterprise 16299.214 rs3 x86-x64 RU-RU LIM+](http://emtrek.org/viewtopic.php?t=45688) [3.23 GB](http://emtrek.org/download.php?id=46517)
