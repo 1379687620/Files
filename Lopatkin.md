@@ -1,3 +1,6 @@
+- 2018.02.27.2239 [Microsoft Windows 8.1 Pro 18952 x86-x64 RU-RU BOX](http://emtrek.org/viewtopic.php?t=45845) 3.23 GB [Download](http://emtrek.org/download.php?id=46666)
+- 2018.02.27.1944 [Microsoft Windows 8.1 Pro 18952 x86-x64 RU DREI 2018](http://emtrek.org/viewtopic.php?t=45747) 2.34 GB [Download](http://emtrek.org/download.php?id=46664)
+- 2018.02.27.1336 [Microsoft Windows 8.1 Pro 18952 x86-x64 RU-RU PIP](http://emtrek.org/viewtopic.php?t=45841) 2.69 GB [Download](http://emtrek.org/download.php?id=46661)
 - 2018.02.25.2332 [Microsoft Windows 7 Enterprise SP1 7601.24058 x86-x64 RU-RU 2x1](http://emtrek.org/viewtopic.php?t=45826) 2.48 GB [Download](http://emtrek.org/download.php?id=46646)
 - 2018.02.24.1344 [Microsoft Windows 10 1803 Pro 17107.1000 rs4 Release x86-x64 RU-RU 2x1](http://emtrek.org/viewtopic.php?t=45811) 3.45 GB [Download](http://emtrek.org/download.php?id=46631)
 - 2018.02.22.1103 [Microsoft Windows 10 1709 Enterprise 16299.248 rs3 x86-x64 RU-RU ZZZ](http://emtrek.org/viewtopic.php?t=45799) 2.93 GB [Download](http://emtrek.org/download.php?id=46619)
